@@ -19,7 +19,6 @@ java_source = \
 	radioNuclideData.java \
 	Crystal_Struct.java \
 	Crystal_Atom.java \
-	GoogleAnalyticsThread.java
 
 if ENABLE_JAVA
 
